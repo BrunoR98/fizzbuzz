@@ -1,0 +1,24 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "Fizzbuzz test practice",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoR98/fizzbuzz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoR98/fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/BrunoR98/fizzbuzz#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
